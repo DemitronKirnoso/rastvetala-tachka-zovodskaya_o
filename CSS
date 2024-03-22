@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: mediumturquoise;
+}
+
+header {
+    background-color: D9D9D9;
+}
+
+img {
+    hight: 50px;
+    width: 100px;
+    border-radius: 1000px;
+    margin-left: 150px;
+}
+
+.nova {
+    border: double 2px rgb(167, 11, 11);
+    text-align: right;
+    color: rgb(6, 104, 6);
+    background-color: moccasin;
+}
+
+main p {
+    border-bottom: orangered double 2px;
+}
